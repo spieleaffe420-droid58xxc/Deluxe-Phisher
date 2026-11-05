@@ -1,4 +1,10 @@
 # Deluxe-Phisher
+#Bereitstellung
+
+Aus Sicherheits und Kontrollgründen wird dieses Repository nicht öffentlich verteilt. Der Zugang sowie die Bereitstellung der Projektdaten erfolgen ausschließlich auf individuelle Anfrage und nach entsprechender Freigabe durch den Verantwortlichen.
+
+Anfragen können direkt über GitHub-Nachrichten gestellt werden!
+
 Web Traffic Routing & Proxy Research
 Übersicht
 
